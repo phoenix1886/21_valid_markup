@@ -1,6 +1,6 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+Site is hosted using GitHub Pages: https://phoenix1886.github.io/21_valid_markup/
 
 # Project Goals
 
